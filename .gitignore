@@ -1,0 +1,22 @@
+# Exclude the data folder
+data/
+
+# Ignore the virtual environment
+venv/
+
+# Ignore the macOS-specific .DS_Store files
+.DS_Store
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore AWS credentials file
+s3-user_accessKeys.csv
+
+# Ignore large model files that aren't needed
+word2vec-google-news-300.model
+word2vec-google-news-300.model.vectors.npy
+
+# Ignore Airflow logs 
+airflow/logs/

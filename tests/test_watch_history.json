@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Video 1",
+        "time": "2023-08-15T12:34:56Z",
+        "titleUrl": "https://www.youtube.com/watch?v=abc123",
+        "details": [{"name": "Video Details"}],
+        "subtitles": [{"name": "Channel 1"}]
+    },
+    {
+        "title": "Video 2",
+        "time": "2023-07-10T09:20:30Z",
+        "titleUrl": "https://www.youtube.com/watch?v=def456",
+        "details": [{"name": "Video Details"}],
+        "subtitles": [{"name": "Channel 2"}]
+    }
+]
