@@ -178,7 +178,7 @@ The three clusters represent distinct content groups based on the features extra
 
 For comparison, clustering was also performed with k=5, resulting in the following visualization:
 
-<div style="text-align: center;"> <img src="images/clustering_with_5.png" alt="PCA Clustering with k=5" width="400"/> </div>
+<div style="text-align: center;"> <img src="images/Clustering_with_5.png" alt="PCA Clustering with k=5" width="400"/> </div>
 
 While k=5 provides a finer grouping of content types, the increased complexity did not significantly improve clustering quality. Therefore, k=3 was retained for its balance between simplicity and interpretability.
 
